@@ -1,1 +1,1 @@
-#  Patika.dev | Javascript Odev-1
+#  Patika.dev | Javascript Odev1
