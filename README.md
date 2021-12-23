@@ -1,1 +1,1 @@
-#  Patika.dev | Javascript Odev1
+# Third Javascript homework (Timer) within the scope of Patika
